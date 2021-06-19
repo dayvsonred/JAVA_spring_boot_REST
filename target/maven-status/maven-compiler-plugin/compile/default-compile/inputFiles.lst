@@ -1,3 +1,5 @@
 /home/dayvson/curso/projetos/cursomc/src/main/java/com/dayvson/cursomc/CursomcApplication.java
 /home/dayvson/curso/projetos/cursomc/src/main/java/com/dayvson/cursomc/domain/Categoria.java
+/home/dayvson/curso/projetos/cursomc/src/main/java/com/dayvson/cursomc/services/CategoriaService.java
 /home/dayvson/curso/projetos/cursomc/src/main/java/com/dayvson/cursomc/resources/CategoriaResource.java
+/home/dayvson/curso/projetos/cursomc/src/main/java/com/dayvson/cursomc/repositories/CategoriaRepository.java
